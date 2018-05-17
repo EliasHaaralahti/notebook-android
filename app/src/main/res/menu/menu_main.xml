@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/new_item"
+        android:title="Add new item"
+        android:icon="@drawable/ic_add_white_24dp"
+        android:orderInCategory="1"
+        app:showAsAction="always"/>
+
+    <item
+        android:id="@+id/send_data"
+        android:title="Email data"
+        android:icon="@drawable/ic_mail_outline_white_24dp"
+        android:orderInCategory="2"
+        app:showAsAction="always"/>
+
+    <item
+        android:id="@+id/delete_all"
+        android:title="Delete all data"
+        android:icon="@drawable/ic_delete_white_24dp"
+        android:orderInCategory="3"
+        app:showAsAction="always"/>
+
+</menu>

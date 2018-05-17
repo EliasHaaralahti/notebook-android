@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">Assessment</string>
+
+	<string name="edit_title">Edit</string>
+	<string name="log_title">Notes</string>
+	<string name="add_title">Create</string>
+	<string name="button_yes">Yes</string>
+	<string name="button_no">No</string>
+    <string name="warning_message">Warning</string>
+
+	<string name="data_get_error">Error retrieving data for entry"</string>
+    <string name="unable_create_file">Unable to create file, please check storage permissions</string>
+    <string name="item_save_failed">Unable to save entry</string>
+    <string name="item_delete_failed">Unable to delete entry</string>
+    <string name="database_unavailable">Database unavailable</string>
+    <string name="unable_send_data">Unable to send data</string>
+    <string name="unable_delete_data">Unable to delete entry</string>
+    <string name="unable_add_item">Unable to add entry</string>
+    <string name="storage_unavailable">Storage unavailable</string>
+
+	<string name="item_save_success">Entry saved</string>
+	<string name="item_added">Entry added</string>
+	<string name="file_create_success">File created</string>
+    <string name="entry_deleted">Entry deleted</string>
+    <string name="all_data_deleted">All entries deleted</string>
+
+    <string name="request_fill_fields">Please fill all the fields</string>
+    <string name="delete_single_confirm">Are you sure you want to delete entry </string>
+    <string name="delete_all_confirm">Are you sure you want to remove all entries?</string>
+
+	<string name="email_title">Data report</string>
+	<string name="email_intent_text">Send email</string>
+</resources>
